@@ -1,0 +1,6 @@
+{Mod
+	{Name "ewt.TournyPack vGITHUB-X.X.XX"}
+	{Desc "MP mod"}
+	{MinGameVersion "1.1"}
+	{MaxGameVersion "3.265"}
+}
